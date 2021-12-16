@@ -10,7 +10,7 @@ java -jar TikTok.main.jar
 
 
 
-![1](res\1.png)
+![1](https://github.com/AnteeOne/tik-hw/blob/main/res/1.png)
 
 ### - Получение списка доступных команд:
 
@@ -20,7 +20,7 @@ java -jar TikTok.main.jar
 
 
 
-![1](res\2.png)
+![1](https://github.com/AnteeOne/tik-hw/blob/main/res/2.png)
 
 ### Получение списка доступных команд:
 
